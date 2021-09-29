@@ -1,6 +1,10 @@
 # tmux-for-server
 
 ```
+vim .tmux.conf
+```
+
+```
 set-option -g status-keys vi                        
 setw -g mode-keys vi
 setw -g monitor-activity on                                                     
